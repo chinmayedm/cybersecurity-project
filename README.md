@@ -6,7 +6,7 @@ This README explains **each AWS service** used in the given architecture diagram
 
 ## 📌 Architecture Overview
 
-![AWS VPC Public Subnet EC2 Architecture]()
+![AWS VPC Public Subnet EC2 Architecture](https://github.com/chinmayedm/AWS-Project-01/blob/main/Screenshot%202025-12-12%20at%2001.07.30.png?raw=true)
 
 The architecture consists of:
 
